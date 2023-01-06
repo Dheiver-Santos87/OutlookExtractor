@@ -15,4 +15,5 @@ O método principal da classe é o extract_attachments(), que realiza as seguint
 7. Salva o anexo na pasta de destino correspondente.
 8. Incrementa a contagem de emails processados.
 9. Exibe a quantidade total de emails processados.
+.
 Por fim, é criada uma instância da classe OutlookExtractor e o método extract_attachments() é chamado para iniciar o processo de extração de anexos.
